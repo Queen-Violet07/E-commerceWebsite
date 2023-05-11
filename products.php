@@ -16,7 +16,7 @@ if(isset($_GET['category']))
 
         ?>
 
-        <div class="py-2 bg-primary">
+        <div class="py-2 bg-teal">
             <div class="container">
                 <h6 class="text-white">
                     <a class="text-white" href="categories.php">

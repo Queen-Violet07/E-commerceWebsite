@@ -6,7 +6,7 @@ include('authenticate.php');
 ?>
    
 
-<div class="py-2 bg-primary">
+<div class="py-2 bg-teal">
     <div class="container">
         <h6 class="text-white">
             <a href="index.php" class="text-white" >
